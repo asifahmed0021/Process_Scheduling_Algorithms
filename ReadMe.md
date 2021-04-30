@@ -26,4 +26,10 @@ The table simulated is for n=50
 3) plot.py: After execution of the driver code by script command this program shows performance plots of all algorithms by taking data from the csv files made.<br>
 4) script.sh: Only this file has to be run in the terminal for execution of all other files in correct order.<br>
 
+## Plots
+<img width="700" height=auto src="./plots/awt_plot.png"></img>
+<img width="700" height=auto src="./plots/atat_plot.png"></img>
+<img width="700" height=auto src="./plots/art_plot.png"></img>
+
+
 Note: After every run of the script we need to delete the csv files that are made for a new execution of the program. Close every image to see the next one while python script is running.
