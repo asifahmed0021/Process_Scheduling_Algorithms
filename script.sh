@@ -1,5 +1,5 @@
 #!/bin/bash
-command g++ B17EE013.cpp
+command g++ driver.cpp
 n=10
 
 while [ $n -lt 60 ]
